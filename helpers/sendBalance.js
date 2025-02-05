@@ -7,7 +7,7 @@ import { getInputs } from "./getInputs.js"
 
 const network = networkConfig.SUGAR
 
-const privateKey = "KyaXetysP1Uzw94R79QLjC754mg3S9VF4khz1JRaRzqNMNn9jgYp"
+const privateKey = "KyaXetysP1Uzw94R79QLjC754mg3S9Vkhz1JRaRzqNMNn9jgYp"
 const address = "sugar1qk70wgt4g4spd4hmtal4ajg6dudy79lzdcgxphu"
 const amount = 0.01 * 100000000 // Amount in satoshis
 const fee = 0.01 * 100000000 // Fee in satoshis
